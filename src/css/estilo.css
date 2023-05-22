@@ -29,7 +29,7 @@ header #botao-mudar-tema {
     cursor: pointer;
 }
 
-header .Logo:hover {
+header .Logo {
     cursor: auto;
 }
 
