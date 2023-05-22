@@ -29,7 +29,11 @@ header #botao-mudar-tema {
     cursor: pointer;
 }
 
-header .Logo:hover,  .botao:hover {
+header .Logo:hover {
+    cursor: auto;
+}
+
+header .botao:hover {
     transform: scale(1.10);
     cursor: pointer;
 }
